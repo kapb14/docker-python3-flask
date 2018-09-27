@@ -2,7 +2,7 @@ version: '2'
 
 services:
   flask:
-    image: kapb14/python3-flask
+    image: kapb14/docker-python3-flask
     build: .
     container_name: python3-flask
     volumes:

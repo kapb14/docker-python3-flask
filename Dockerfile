@@ -4,7 +4,7 @@ MAINTAINER Karushin Aleksandr <karushin@adv.ru>
 ARG BUILD_DATE
 ARG VCS_REF
 
-ENV VCS_URL "https://github.com/nikos/python3-alpine-flask-docker"
+ENV VCS_URL "https://github.com/kapb14/docker-python3-flask"
 ENV APP_DEBUG False
 
 # Set labels (see https://microbadger.com/labels)

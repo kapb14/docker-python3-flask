@@ -1,6 +1,6 @@
 .PHONY: clean build run stop inspect push simple-build up
 
-IMAGE_NAME = kapb14/python3-flask
+IMAGE_NAME = kapb14/docker-python3-flask
 CONTAINER_NAME = python3-flask
 
 release: build push
